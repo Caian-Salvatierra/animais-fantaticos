@@ -1,1 +1,1 @@
-Esse projeto traz um pouco dos meu conhecimentos em HTML, CSS, JS 
+Esse projeto traz um pouco dos meus conhecimentos em HTML, CSS, JS 
